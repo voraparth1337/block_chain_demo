@@ -1,9 +1,7 @@
 import java.lang.reflect.Array;
 import java.util.Arrays;
 
-/**
- * Created by ivanliljeqvist on 2017-08-31.
- */
+
 public class Block {
 
     private int previousHash;

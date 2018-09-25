@@ -2,18 +2,6 @@ import java.util.Arrays;
 
 public class Main {
 
-    /**
-
-        Hash = digital signature
-
-        Each block will have:
-
-            List of transactions
-            Previous Hash
-
-            Hash
-
-     */
 
     public static void main(String[] args) {
 
